@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Ville": "Amiens",
+        "Rue": "70 rue des Jacobin"
+    },
+    {
+        "id": 2,
+        "Ville": "Le Havre",
+        "Rue": "10 Place Léon Meyer"
+    },
+    {
+        "id": 3,
+        "Ville": "Noyon-Compiègne",
+        "Rue": "1435 boulevard Cambronne, Campus Inovia"
+    },
+    {
+        "id": 4,
+        "Ville": "Versaille",
+        "Rue": "Les Docks, 143 Rue Yves le Coz"
+    }
+]

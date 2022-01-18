@@ -1,0 +1,23 @@
+[
+    {
+        "nom" : "Executive Program",
+        "executiveProgramAge": "Avoir plus de 18 ans",
+        "executiveProgramBac": "Avoir le niveau bac ou une expérience professionnelle d'au moins 1 an",
+        "executiveProgramCulture": "Avoir une culture numérique et une passion pour les métiers du web",
+        "executiveProgramEntretien": "Après avoir remplie le formulaire vous allez recevoir une convocation à un entretien de sélection en visio et effectuer les tests d’admission en ligne.",
+        "lienVersCandidature" : "https://lamanu.fr/candidature/"
+    },
+    {
+        "nom" : "Executive Bachelor",
+        "executiveBachelorBac": "Il faut justifier d'un Bac+2 dans le domaine du développement",
+        "executiveBachelorLvl": "Il vous faur valider un exercice technique sur PHP",
+        "executiveBachelorEntretien": "Après avoir remplie le formulaire vous allez recevoir une convocation à un entretien de sélection en visio et effectuer les tests d’admission en ligne.",
+        "lienVersCandidature" : "https://lamanu.fr/candidature/"
+    },
+    {
+        "bachelorNumeriqueDossier": "Dossier de candidature à compléter disponible sur demande sur le site internet",
+        "bachelorNumeriqueEntretien": "Il vous faudras passer un entretien de motivation et de test de culture générale",
+        "bachelorNumeriqueTechniques": "Pour une admition en 2ème ou 3ème année il vous faudras passer un test techniques",
+        "lienVersCandidature" : "https://lamanu.fr/candidature/"
+    }
+]
