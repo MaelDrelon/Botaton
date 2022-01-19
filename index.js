@@ -18,19 +18,19 @@ app.get('/Formation', (req,res) => {
     res.status(200).json(Formation)
 })
 
-app.get('/Formation/:id', (req,res) => {
-    const id = parseInt(req.params.id)
-    const Formation = Formation.find(Formation => Formation.id === id)
-    res.status(200).json(Formation)
+app.get('/Formation/:slug', (req,res) => {
+    const slug = req.params.slug
+    const Format = Formation.find(Formation => Formation.slug === slug)
+    res.status(200).json(Format)
 })
 
 app.get('/Lieu', (req,res) => {
   res.status(200).json(Lieu)
 })
 
-app.get('/Lieu/:id', (req,res) => {
-  const id = parseInt(req.params.id)
-  const Lieu = Lieu.find(Lieu => Lieu.id === id)
+app.get('/Lieu/:Ville', (req,res) => {
+  const Ville = req.params.Ville
+  const Lieu = Lieu.find(Lieu => Lieu.Ville === Ville)
   res.status(200).json(Lieu)
 })
 
@@ -38,19 +38,19 @@ app.get('/tarif', (req,res) => {
   res.status(200).json(tarif)
 })
 
-app.get('/tarif/:id', (req,res) => {
-  const id = parseInt(req.params.id)
-  const tarif = tarif.find(tarif => tarif.id === id)
-  res.status(200).json(tarif)
+app.get('/tarif/:statue', (req,res) => {
+  const statue = req.params.statue
+  const tari = tarif.find(tarif => tarif.statue === statue)
+  res.status(200).json(tari)
 })
 
 app.get('/inscription', (req,res) => {
   res.status(200).json(inscription)
 })
 
-app.get('/inscription/:id', (req,res) => {
-  const id = parseInt(req.params.id)
-  const inscri = inscription.find(inscription => inscription.id === id)
+app.get('/inscription/:slug', (req,res) => {
+  const slug = req.params.slug
+  const inscri = inscription.find(inscription => inscription.slug === slug)
   res.status(200).json(inscri)
 })
 
@@ -71,9 +71,9 @@ app.get('/date-jpo', (req,res) => {
   res.status(200).json(dateJPO)
 })
 
-app.get('/date-jpo/:id', (req,res) => {
-  const id = parseInt(req.params.id)
-  const dJPO = dateJPO.find(dJPO => dateJPO.id === id)
+app.get('/date-jpo/:date', (req,res) => {
+  const date = req.params.date
+  const dJPO = dateJPO.find(dateJPO => dateJPO.date === date)
   res.status(200).json(dJPO)
 })
 
@@ -98,6 +98,6 @@ app.get('/date-jpo/:id', (req,res) => {
   res.status(200).json(parkings)
 })*/
 
-app.listen(8080, () => {
+app.listen(3000, () => {
     console.log("Serveur à l'écoute")
 })

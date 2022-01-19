@@ -1,38 +1,47 @@
 [
   {
     "id": 1,
-    "reponse": "Bachelor Web & Application Developer (Bac+3)"
+    "reponse": "Bachelor Web & Application Developer (Bac+3)",
+    "slug": "B-WAD"
   },
   {
     "id": 2,
-    "reponse": "Bachelor Creative Developer (Bac+3)"
+    "reponse": "Bachelor Creative Developer (Bac+3)",
+    "slug": "B-CD"
   },
   {
     "id": 3,
-    "reponse": "Bachelor Digital Marketer & UI-UX Designer (Bac+3)"
+    "reponse": "Bachelor Digital Marketer & UI-UX Designer (Bac+3)",
+    "slug": "B-DMD"
   },
   {
     "id": 4,
-    "reponse": "Formation Webdesigner (Bac+2)"
+    "reponse": "Formation Webdesigner (Bac+2)",
+    "slug": "F-W"
   },
   {
     "id": 5,
-    "reponse": "Executive Program Développement Web (Bac+2)"
+    "reponse": "Executive Program Développement Web (Bac+2)",
+    "slug": "EP-DW"
   },
   {
     "id": 6,
-    "reponse": "Executive Program Communication Digitale et Design Web (Bac+3)"
+    "reponse": "Executive Program Communication Digitale et Design Web (Bac+3)",
+    "slug": "EP-CDD"
   },
   {
     "id": 7,
-    "reponse": "Concepteur Développeur d’Applications (Alternance Bac+3)"
+    "reponse": "Concepteur Développeur d’Applications (Alternance Bac+3)",
+    "slug": "C-DeveloppeurA"
   },
   {
     "id": 8,
-    "reponse": "Concepteur Designer d’Applications (Alternance Bac+3)"
+    "reponse": "Concepteur Designer d’Applications (Alternance Bac+3)",
+    "slug": "C-DesignerA"
   },
   {
     "id": 9,
-    "reponse": "Concepteur Designer UI (Alternance Bac+3)"
+    "reponse": "Concepteur Designer UI (Alternance Bac+3)",
+    "slug": "C-DesignerUI"
   }
 ]

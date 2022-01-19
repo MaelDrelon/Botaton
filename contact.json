@@ -8,7 +8,7 @@
 
     {
         "id": 2,
-        "localisation" : "Le Havre",
+        "localisation" : "Le-Havre",
         "emailLeHavre": "contact-lehavre@lamanu.fr",
         "numero": "09 86 27 17 04"
     },
@@ -29,13 +29,13 @@
 
     {
         "id": 5,
-        "localisation" : "Campus Virtuel",
+        "localisation" : "Campus-Virtuel",
         "emailCampusVirtuel": "contact-campusvirtuel@lamanu.fr",
         "numero": "09 86 27 17 04"
     },
     {
         "id": 6,
-        "localisation" : "Siège social",
+        "localisation" : "Siège-social",
         "emailSiegeSocial": "contact@lamanu.fr",
         "numero": "09 86 27 17 04"
     }

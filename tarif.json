@@ -1,6 +1,7 @@
 [
     {
-        "status" : "Veuillez contacter l'école"
+        "status" : "Veuillez contacter l'école",
+        "mail": "contact@lamanu.fr"
 
     }
 ]
