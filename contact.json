@@ -2,41 +2,41 @@
     {
         "id": 1,
         "localisation" : "Amiens",
-        "emailAmiens": "contact-amiens@lamanu.fr",
+        "email": "contact-amiens@lamanu.fr",
         "numero": "09 86 27 17 04"
     },
 
     {
         "id": 2,
         "localisation" : "Le-Havre",
-        "emailLeHavre": "contact-lehavre@lamanu.fr",
+        "email": "contact-lehavre@lamanu.fr",
         "numero": "09 86 27 17 04"
     },
 
     {
         "id": 3,
         "localisation" : "Noyon",
-        "emailNoyonCompiègne": "contact-noyon@lamanu.fr",
+        "email": "contact-noyon@lamanu.fr",
         "numero": "09 86 27 17 04"
     },
 
     {
         "id": 4,
         "localisation" : "Versailles",
-        "emailVersailles": "contact-versailles@lamanu.fr",
+        "email": "contact-versailles@lamanu.fr",
         "numero": "09 86 27 17 04"
     },
 
     {
         "id": 5,
         "localisation" : "Campus-Virtuel",
-        "emailCampusVirtuel": "contact-campusvirtuel@lamanu.fr",
+        "email": "contact-campusvirtuel@lamanu.fr",
         "numero": "09 86 27 17 04"
     },
     {
         "id": 6,
         "localisation" : "Siège-social",
-        "emailSiegeSocial": "contact@lamanu.fr",
+        "email": "contact@lamanu.fr",
         "numero": "09 86 27 17 04"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "id": 1,
         "Ville": "Amiens",
-        "Rue": "70 rue des Jacobin"
+        "Rue": "https://www.google.com/maps/place/70+Rue+des+Jacobins,+80000+Amiens/@49.8900054,2.299287,17z/data=!3m1!4b1!4m5!3m4!1s0x47e78446501e03cb:0xd90c13e3b01c0596!8m2!3d49.8900054!4d2.3014757"
     },
     {
         "id": 2,
         "Ville": "Le-Havre",
-        "Rue": "10 Place Léon Meyer"
+        "Rue": "https://www.google.com/maps/place/10+Pl.+L%C3%A9on+Meyer,+76600+Le+Havre/@49.4927549,0.1047914,15z/data=!3m1!4b1!4m5!3m4!1s0x47e02f1949becc93:0xdf76d5616f1c835!8m2!3d49.4927552!4d0.1135247"
     },
     {
         "id": 3,
         "Ville": "Noyon-Compiègne",
-        "Rue": "1435 boulevard Cambronne, Campus Inovia"
+        "Rue": "https://www.google.com/maps/place/Campus+Economique+Inovia/@49.5979187,3.0081583,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNDA4-J98kS4pQiKrc6JZXsAAw56sdgzj2LVRpZ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNDA4-J98kS4pQiKrc6JZXsAAw56sdgzj2LVRpZ%3Dw203-h270-k-no!7i3024!8i4032!4m5!3m4!1s0x47e87397203ab3d7:0x72b60ff31f6f10e0!8m2!3d49.5991773!4d3.0061627"
     },
     {
         "id": 4,
         "Ville": "Versaille",
-        "Rue": "Les Docks, 143 Rue Yves le Coz"
+        "Rue": "https://www.google.com/maps/place/Les+Docks/@48.791863,2.1422358,15z/data=!3m1!4b1!4m5!3m4!1s0x47e67d249a91d0ef:0x2a151662b0153efe!8m2!3d48.79184!4d2.1509887"
     }
 ]

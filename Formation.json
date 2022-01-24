@@ -2,46 +2,55 @@
   {
     "id": 1,
     "reponse": "Bachelor Web & Application Developer (Bac+3)",
+    "lien": "https://lamanu.fr/bachelor-web-application-developer/",
     "slug": "B-WAD"
   },
   {
     "id": 2,
     "reponse": "Bachelor Creative Developer (Bac+3)",
+    "lien": "https://lamanu.fr/bachelor-creative-developer/",
     "slug": "B-CD"
   },
   {
     "id": 3,
     "reponse": "Bachelor Digital Marketer & UI-UX Designer (Bac+3)",
+    "lien": "https://lamanu.fr/bachelor-digital-marketer-ui-ux-designer/",
     "slug": "B-DMD"
   },
   {
     "id": 4,
     "reponse": "Formation Webdesigner (Bac+2)",
+    "lien": "https://lamanu.fr/formation-webdesigner/",
     "slug": "F-W"
   },
   {
     "id": 5,
     "reponse": "Executive Program Développement Web (Bac+2)",
+    "lien": "https://lamanu.fr/formations/formation-developpeur-web-mobile/",
     "slug": "EP-DW"
   },
   {
     "id": 6,
     "reponse": "Executive Program Communication Digitale et Design Web (Bac+3)",
+    "lien": "https://lamanu.fr/formations/formation-designer-web/",
     "slug": "EP-CDD"
   },
   {
     "id": 7,
     "reponse": "Concepteur Développeur d’Applications (Alternance Bac+3)",
+    "lien": "https://lamanu.fr/formations/formation-concepteur-developpeur-applications/",
     "slug": "C-DeveloppeurA"
   },
   {
     "id": 8,
     "reponse": "Concepteur Designer d’Applications (Alternance Bac+3)",
+    "lien": "https://lamanu.fr/executive-bachelor-concepteur-designer-applications/",
     "slug": "C-DesignerA"
   },
   {
     "id": 9,
     "reponse": "Concepteur Designer UI (Alternance Bac+3)",
+    "lien": "https://lamanu.fr/formation-concepteur-designer-ui/",
     "slug": "C-DesignerUI"
   }
 ]
